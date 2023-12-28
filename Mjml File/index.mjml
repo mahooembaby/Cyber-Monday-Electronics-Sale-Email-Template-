@@ -1,0 +1,132 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <!-- Start Banner Section -->
+    <mj-section full-width="full-width" background-color="#0c1b2e" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" font-size="16px" color="#fff" font-weight="400" padding-top="50px" padding-bottom="0" text-transform="capitalize">special offer</mj-text>
+        <mj-text align="center" font-size="28px" color="#da3c31" font-weight="600" text-transform="capitalize" padding-bottom="0">cyber monday</mj-text>
+        <mj-text align="center" font-size="90px" color="#fff" font-weight="600" text-transform="uppercase" padding-top="0">sale</mj-text>
+        <mj-text align="center" font-size="17px" color="#fff" font-weight="200" text-transform="capitalize" padding-bottom="20px" padding-top="0">40% OFF full-prices items</mj-text>
+        <mj-button href="#" background-color="#da3c31" inner-padding="10px 50px" text-transform="uppercase">shop now</mj-button>
+        <mj-image href="#" width="300px" padding-top="50px" padding-bottom="0" padding-left="0" padding-right="0" align="center" src="https://i.ibb.co/YW0bPgz/banner.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start Featurwe Section -->
+    <mj-section padding-top="40px" padding-bottom="40px" background-color="#fff">
+      <!-- First Group Feature -->
+      <mj-group>
+        <mj-column background-color="#f9f9f9">
+          <mj-text font-size="16px" font-weight="600" padding-top="40px" text-transform="capitalize">lorem ipsum</mj-text>
+          <mj-text padding-top="0" line-height="16px">this is a new text<br />block<br />change the text</mj-text>
+          <mj-text padding-bottom="51px">
+            <a href="#" style="color:#da3c31;text-transform:capitalize; font-size:14px;font-weight:600">shop now</a>
+          </mj-text>
+        </mj-column>
+        <mj-column background-color="#f9f9f9">
+          <mj-image width="120px" align="right" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" src="https://i.ibb.co/4mF1qh8/pic-1.png"></mj-image>
+        </mj-column>
+      </mj-group>
+
+      <!-- Second Group Feature -->
+      <mj-group>
+        <mj-column background-color="#f9f9f9">
+          <mj-text font-size="16px" font-weight="600" padding-top="40px" text-transform="capitalize">lorem ipsum</mj-text>
+          <mj-text padding-top="0" line-height="16px">this is a new text<br />block<br />change the text</mj-text>
+          <mj-text padding-bottom="51px">
+            <a href="#" style="color:#da3c31;text-transform:capitalize; font-size:14px;font-weight:600">shop now</a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column background-color="#f9f9f9">
+          <mj-image width="130px" align="right" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" src="https://i.ibb.co/vdW3n8R/pic-2.png"></mj-image>
+        </mj-column>
+      </mj-group>
+
+    </mj-section>
+    <!-- End Featurwe Section -->
+    <!-- Start About Feature Section -->
+    <mj-section background-color="#fff" padding-top="20px" padding-bottom="10px">
+      <mj-column>
+        <mj-text align="center" font-size="40px" font-weight="600" text-transform="capitalize">bestsellers</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="200" text-transform="capitalize" line-height="20px" padding-left="25px" padding-right="25px">lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do elusmod tempor incididunt ut labore et dolore magna aliqua.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End About Feature Section -->
+    <!-- Start Banner Section -->
+    <mj-section background-color="#fff">
+
+      <!-- First Product In Section -->
+      <mj-column padding-bottom="20px">
+        <mj-image padding-top="0" padding-bottom="0" padding-left="0" padding-right="10px" align="center" src="https://i.ibb.co/qJbDXMX/pic-3.png"></mj-image>
+        <mj-text align="center" font-size="18px" font-weight="400" text-transform="capitalize" padding-top="20px">product name</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize" padding-top="0px"><span style="color:#da3c31; text-decoration:line-through;">$130.00</span> | $119.00</mj-text>
+        <mj-button href="#" background-color="transparent" border="1px solid #000" color="#000" text-transform="capitalize" inner-padding="10px 30px" font-weight="600">shop now</mj-button>
+      </mj-column>
+
+      <!-- Second Product In Section -->
+      <mj-column padding-bottom="20px">
+        <mj-image padding-top="0" padding-bottom="0" padding-left="0" padding-right="10px" align="center" src="https://i.ibb.co/DfZbvdt/pic-5.png"></mj-image>
+        <mj-text align="center" font-size="18px" font-weight="400" text-transform="capitalize" padding-top="20px">product name</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize" padding-top="0px"><span style="color:#da3c31; text-decoration:line-through;">$130.00</span> | $119.00</mj-text>
+        <mj-button href="#" background-color="transparent" border="1px solid #000" color="#000" text-transform="capitalize" inner-padding="10px 30px" font-weight="600">shop now</mj-button>
+      </mj-column>
+
+      <!-- Third Product In Section -->
+      <mj-column padding-bottom="20px">
+        <mj-image padding-top="0" padding-bottom="0" padding-left="0" padding-right="10px" align="center" src="https://i.ibb.co/k8RDm5F/pic-4.png"></mj-image>
+        <mj-text align="center" font-size="18px" font-weight="400" text-transform="capitalize" padding-top="20px">product name</mj-text>
+        <mj-text align="center" font-size="15px" font-weight="600" text-transform="capitalize" padding-top="0px"><span style="color:#da3c31; text-decoration:line-through;">$130.00</span> | $119.00</mj-text>
+        <mj-button href="#" background-color="transparent" border="1px solid #000" color="#000" text-transform="capitalize" inner-padding="10px 30px" font-weight="600">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start Button Section -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-button href="#" inner-padding="10px 15px" width="50%" background-color="#000" text-transform="uppercase" font-weight="600">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End Button Section -->
+    <!-- Start Banner Section -->
+    <mj-section full-width="full-width" background-color="#f7f7f7" padding-top="50px" padding-bottom="50px">
+
+      <!-- First Product In Section -->
+      <mj-column>
+        <mj-image align="center" src="https://i.ibb.co/X3RFGWK/pic-6.png"></mj-image>
+        <mj-text align="center" font-size="16px" text-transform="capitalize">free shipping</mj-text>
+      </mj-column>
+
+      <!-- Second Product In Section -->
+      <mj-column>
+        <mj-image align="center" src="https://i.ibb.co/sHspqZX/pic-7.png"></mj-image>
+        <mj-text align="center" font-size="16px" text-transform="capitalize">secure payments</mj-text>
+      </mj-column>
+
+      <!-- Third Product In Section -->
+      <mj-column>
+        <mj-image align="center" src="https://i.ibb.co/zZDnG9y/pic-8.png"></mj-image>
+        <mj-text align="center" font-size="16px" text-transform="capitalize">30 days free return</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start Footer Section -->
+    <mj-section background-color="#fff" padding-top="35px" padding-bottom="50px">
+      <mj-column>
+        <mj-text align="center">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/tJ9ZLvm/facebook.png" style="width:25px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/FBsvvc0/linkedin.png" style="width:25px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/fv5PDbj/instagram.png" style="width:25px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/v1mzmZt/x.png" style="width:25px;margin-right:5px;" /></a>
+          </div>
+        </mj-text>
+        <mj-text align="center" font-size="12px" font-weight="500" text-transform="uppercase" padding-bottom="0px">unsubscribe&nbsp;|&nbsp;privacy policy&nbsp;|&nbsp; web</mj-text>
+        <mj-text align="center" font-size="12px" font-weight="400" text-transform="capitalize" padding-left="35px" padding-right="35px" line-height="18px"> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. </mj-text>
+        <mj-divider border-color="#dadada" border-style="solid" border-width="1px"></mj-divider>
+        <mj-image href="#" padding-bottom="50px" width="120px" src="https://i.ibb.co/G3fQtyJ/made-logo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End Footer Section -->
+  </mj-body>
+</mjml>
